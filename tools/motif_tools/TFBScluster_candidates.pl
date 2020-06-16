@@ -870,12 +870,12 @@ return $success;
 sub next_node {
 
 	my ($node,
-	my $choice,
-	my $node_count,
-	my $choice_ref,
-	my $path_ref,
-	my $branch_ref,
-	my $tf_ref) = @_;
+	$choice,
+	$node_count,
+	$choice_ref,
+	$path_ref,
+	$branch_ref,
+	$tf_ref) = @_;
 	my @choices = @$choice_ref;
 	my @path = @$path_ref;
 	my @branches = @$branch_ref;
