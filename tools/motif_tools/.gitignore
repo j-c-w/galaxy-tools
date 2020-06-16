@@ -1,0 +1,7 @@
+TFcombined_sorted.*
+TFcombined.*
+TFgroups.*
+filtered_groups.*
+nytprof.out
+nytprof/
+test-data/SARSCoV2_veryshort.fa
